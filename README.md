@@ -13,10 +13,11 @@ por um período regulado por lei, que pode variar de 2 à 3 meses.
 - **Consultar Amostra:** É possível consultar a localização de uma amostra apartir do número do seu lacre.
 - **Prateleiras:** Permite aos usuários cadastrar, editar e exportar uma prateleira no formato xlsx compatível com o EXCEL.
 - **Formulário:** Permite visualizar as amostras de determinada prateleira. Também deletar do sistema e cadastrar uma novas amostras.
-- **Usuários:** Adcionar, remover e hierarquizar os usuários.
+- **Usuários:** Adicionar, remover, hierarquizar e alterar senha dos usuários.
+- **Página de Login:** Autenticação de usuários.
 
 ## Vídeo de Demonstração
 
 ---
 
-O sistema é um MPV (Minimum Viable Product ou Mínimo Produto Viável, em português) de uma solução comercial para empresas do ramo de análise de combustíveis. Por ser um MVP, o sistema possui funcionalidades minimalistas, porém de grande utilidade para a maioria das necessidades relacionadas à estoque de amostras de combustíveis.
+Este sistema é um MPV (Minimum Viable Product ou Mínimo Produto Viável, em português) de uma solução comercial para empresas do ramo de análise de combustíveis. Por ser um MVP, o sistema possui funcionalidades minimalistas, porém de grande utilidade para a maioria das necessidades relacionadas à estoque de amostras de combustíveis.
