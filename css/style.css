@@ -1,0 +1,236 @@
+.principal {
+  display: flex;
+  align-items: center;
+  height: 70vh;
+  width: 100%;
+}
+
+.botoes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.nav-caixa {
+  background-color: aliceblue;
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 1rem;
+  justify-content: space-between;
+  box-shadow: 0 10px 20px 0 rgba(0, 0, 0, .2);
+}
+
+.nav-pacote {
+  display: flex;
+  font-size: 24px;
+}
+
+.nav-lista {
+  list-style: none;
+  padding-top: 1rem;
+}
+
+.nav-item {
+  padding-top: 1rem;
+}
+
+.nav-item a {
+  text-decoration: none;
+}
+
+#campo-prateleira {
+  text-transform: uppercase
+}
+
+#campo-prateleira-descarte {
+  text-transform: uppercase
+}
+
+#campo-prateleira-editar {
+  text-transform: uppercase
+}
+
+#campo-matriz {
+  text-transform: uppercase
+}
+
+#campo-matriz-editar {
+  text-transform: uppercase
+}
+
+.caixa {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aqua;
+  place-content: center;
+  text-align: justify;
+}
+
+.tipos{
+  display: flex;
+  flex-direction: column;
+  
+}
+.opcoes {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  height: 10vh;
+  background: rgba(255, 255, 255, 0.97);
+  border-radius: 10px;
+}
+
+.corpo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 70vh;
+  gap: 2rem;
+  align-items: center;
+}
+
+.login {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 0 2rem 0;
+  gap: 1rem;
+  justify-content: center;
+  border: rgb(117, 117, 117) solid 1px;
+  border-radius: 10px;
+  background: #e4e4e4;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.logo img {
+  width: 150px;
+}
+
+.logo-menu {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  padding-right: 1rem;
+}
+
+.logo-menu img {
+  width: 100px;
+  border-radius: 40%;
+  width: 60px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.cadastrar {
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem 0 1.5rem 0;
+}
+
+.topo {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 10vh;
+  padding: 1rem;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+.buscar {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  width: 100%;
+  align-items: center;
+}
+
+.content {
+  display: flex;
+  margin-top: 2rem;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+
+.pip {
+  display: flex;
+  flex-direction: row;
+  gap: 0.2rem;
+  font-weight: 400;
+  height: 100%;
+  justify-content: space-between;
+}
+.espaco{
+  width: 40px;
+}
+
+.table {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.modal-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.modal-body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+}
+
+.formulario {
+  display: flex;
+  flex-direction: column;
+  font-weight: 400;
+  font-size: 1em;
+}
+
+.table-descarte {
+  display: flex;
+  padding: 0.5rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.tr-descarte {
+  gap: 1rem;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  text-align: justify;
+}
