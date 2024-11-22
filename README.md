@@ -2,7 +2,7 @@
 
 A **Ancap Inspection** (pseudônimo), empresa especializada em análises físico-químicas de derivados de petróleo e biocombustíveis, identificou a necessidade de criar uma aplicação web para substituir os formulários em papel usados para registrar as amostras de combustíveis. Essas amostras são armazenadas em uma sala à disposição da ANP (Agência Nacional do Petróleo) por um período regulado por lei, que pode variar de 2 a 3 meses.
 
-Principais Funcionalidades.
+<img src="https://i.ibb.co/ctkcfmd/Captura-de-Tela-135.png" width="128"/>
 
 ## Principais Funcionalidades
 
