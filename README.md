@@ -23,7 +23,7 @@ A **Ancap Inspection** (pseudônimo), empresa especializada em análises físico
 
 ## Vídeo de Demonstração
 
-[https://www.youtube.com/watch?v=L99Lg2cvZhc]
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/L99Lg2cvZhc/0.jpg)](https://www.youtube.com/watch?v=L99Lg2cvZhc)
 
 ---
 
